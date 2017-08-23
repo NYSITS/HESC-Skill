@@ -1,0 +1,5 @@
+TapEligibilityIntent am i eligible for tap
+TapEligibilityIntent can i apply for tap
+TapEligibilityIntent if i am eligible for tap
+TapEligibilityIntent if i'm eligible for tap
+TapEligibilityIntent if i can apply for tap
